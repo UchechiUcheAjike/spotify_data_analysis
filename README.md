@@ -53,6 +53,5 @@ seaborn library
 # Future Work
 
 {List of things that I need to fix, improve, and add in the future.}
-* I need to 
-* Item 2
-* Item 3
+* I need to stay in scope
+* More graphs to visualize the data
